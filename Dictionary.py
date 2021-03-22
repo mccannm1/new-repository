@@ -1,5 +1,5 @@
 # Dictionaries
-# Version 1.4
+# Version 1.3
 
 """ The indices can be (almost) of any type
     A mapping between a set of indices called keys
@@ -42,4 +42,4 @@ yyy = dict()
 print(xxx)
 print(yyy)
 
-# This the end of version  1.4
+# This the end of version  1.3
