@@ -1,5 +1,5 @@
 # Dictionaries
-# Version 1.2
+# Version 1.4
 
 """ The indices can be (almost) of any type
     A mapping between a set of indices called keys
@@ -32,3 +32,14 @@ print(ddd)
 # mutable
 ddd['age'] = 23
 print(ddd)
+# set a dictionary with values
+dic = {'Name':'Martin','course':'Python','year': 2020}
+print(dic)
+
+xxx = {}
+yyy = dict()
+
+print(xxx)
+print(yyy)
+
+# This the end of version  1.4
